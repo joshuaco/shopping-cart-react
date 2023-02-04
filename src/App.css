@@ -112,3 +112,19 @@ li:last-child {
   height: 80px;
   object-fit: cover;
 }
+
+.total-amount {
+  display: flex;
+  justify-content: space-between;
+}
+
+.remove-product {
+  width: 25px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  background-color: brown;
+  padding: 10px;
+}
